@@ -1,0 +1,17 @@
+# Internal project notes
+AGENTS.md
+
+# Arduino and ESP32 build artifacts
+build/
+dist/
+.arduino-build/
+tests/
+# IDE metadata
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Local archives
+*.zip
+*.rar
